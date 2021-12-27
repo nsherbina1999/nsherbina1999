@@ -1,7 +1,6 @@
 # Hi there! I'm <a href="https://github.com/nsherbina1999">Mykyta Shcherbyna</a> 👋
 
 ![Mykyta Shcherbyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsherbina1999&count_private=true&show_icons=true&include_all_commits=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsherbina1999&langs_count_private=true&layout=compact)
 
 ## About Me:
 💻 An inspiring active learner<br>
